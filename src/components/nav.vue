@@ -48,13 +48,13 @@
           ></button>
         </div>
         <div class="offcanvas-body">
-          <ul class="navbar-nav justify-content-center flex-grow-1">
+          <ul class="navbar-nav justify-content-center flex-grow-1 text-blue">
             <li class="nav-item mx-0 mx-lg-2">
-              <a class="nav-link" href="#">How to start</a>
+              <a class="nav-link text-blue"  href="#">How to start</a>
             </li>
             <li class="nav-item mx-0 mx-lg-2 dropdown">
               <a
-                class="nav-link dropdown-toggle"
+                class="nav-link dropdown-toggle  text-blue"
                 type="button"
                 data-bs-toggle="dropdown"
                 >Services</a
@@ -68,7 +68,7 @@
             </li>
             <li class="nav-item mx-0 mx-lg-2 dropdown">
               <a
-                class="nav-link dropdown-toggle"
+                class="nav-link dropdown-toggle  text-blue"
                 type="button"
                 data-bs-toggle="dropdown"
                 >Technologies</a
@@ -80,7 +80,7 @@
               </ul>
             </li>
             <li class="nav-item mx-0 mx-lg-2">
-              <a class="nav-link" href="#">Careers</a>
+              <a class="nav-link  text-blue" href="#">Careers</a>
             </li>
           </ul>
           <div class="navbar-nav justify-content-end gap-2">
@@ -89,7 +89,7 @@
               class="btn bg-white text-black fw-bold px-3 py-auto border-blue-button rounded"
               >BUILD A TEAM <img src="@/src/assets/images/Vector.png"
             /></a>
-            <a class="nav-link" href="#">Contact us</a>
+            <a class="nav-link text-blue" href="#">Contact us</a>
           </div>
         </div>
       </div>
