@@ -7,11 +7,31 @@
 .btn:hover {
     transform: scale(1.1);
 }
+.solution-width{
+    width: calc(100% - 85px);
+    float: left;
+}
+@media screen and (max-width:776px) {
+   .mt-120{
+    margin-top: 120px!important;
+   }
+}
 
 @media screen and (max-width:576px) {
     .card-header {
 
         min-width: auto;
         border-radius: 50px !important;
+    }
+    .mt-120{
+        margin-top: 320px!important;
+       }
+}
+@media screen and (max-width:436px) {
+    .mt-120{
+        margin-top: 370px!important;
+       }
+       .solution-width{
+        width: 100%;
     }
 }

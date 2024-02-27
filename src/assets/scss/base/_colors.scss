@@ -1,7 +1,7 @@
 :root {
     --primary: #FF9900;
     --secondary: #16205F;
-    --ternary: rgb(191, 207, 207);
+    --ternary: #FFF856;
     --light-gray: rgb(233, 227, 220);
 }
 
@@ -17,6 +17,11 @@
 
 .bg-ternary {
     background-color: var(--ternary) !important;
+}
+
+
+.bg-gradient-primary{
+    background: linear-gradient(90deg, #ff9900 0%, #F2CB00 100%);
 }
 .bg-light-gray{
     background-color: var(--light-gray) !important;
