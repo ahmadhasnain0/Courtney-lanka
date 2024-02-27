@@ -1,0 +1,16 @@
+.card-header{
+
+    min-width: 500px;
+    border-radius: 0  100px 0 0!important;
+}
+
+.btn:hover{
+transform: scale(1.1);
+}
+ @media  screen and (max-width:576px){
+    .card-header{
+
+        min-width: auto;
+        border-radius: 50px!important;
+    }
+}
