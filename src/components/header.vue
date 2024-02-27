@@ -1,5 +1,5 @@
 <template>
-  <div class="container-fluid white pb-5">
+  <div class="container-fluid  pb-5">
     <div class="container px-3 px-sm-0 w-100 align-items-center">
       <div class="row">
         <div class="col-12 col-sm-4 pt-auto pt-sm-5">
