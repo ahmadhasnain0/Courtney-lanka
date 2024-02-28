@@ -6,6 +6,7 @@
    <Specialize />
    <Technology/>
    <Connect />
+   <Footer />
 </template>
 
 <script setup>
@@ -16,6 +17,7 @@ import Expert from "../components/expertise.vue"
 import Specialize from "../components/specialized.vue"
 import Technology from "../components/technologies.vue"
 import Connect from "../components/connect-with-us.vue"
+import Footer from "../components/footer.vue"
 
 
 
