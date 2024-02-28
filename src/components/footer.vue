@@ -123,7 +123,6 @@
     </div>
   </div>
 </template>
-
 <script setup>
 import "../assets/scss/components/_footer.scss";
 </script>

@@ -1,6 +1,6 @@
 
 .card-connect{
-    min-width: 600px;
+    min-width: 100%;
     border-radius:  100px 0 0 0 !important;
     margin-left: -200px;
 }
@@ -10,7 +10,7 @@
     border-color: #16205F;
 }
 
-@media screen and (max-width:576px) {
+@media screen and (max-width:767px) {
     .card-connect{
 
         min-width: auto;

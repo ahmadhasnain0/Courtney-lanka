@@ -2,7 +2,7 @@
   <div class="container-fluid pb-5">
     <div class="container px-3 px-sm-0 w-100 align-items-center">
       <div class="row">
-        <div class="col-12 col-sm-8 d-none d-sm-inline">
+        <div class="col-12 col-md-8 d-none d-md-inline">
           <img
             src="../assets/images/connect-with-us/Rectangle 34.png"
             width="100%"
@@ -10,7 +10,7 @@
             class="object-fit-stretech"
           />
         </div>
-        <div class="col-12 col-sm-4 pt-auto pt-sm-5">
+        <div class="col-12 col-md-4 pt-auto pt-sm-5">
           <div class="card border-0 bg-white">
             <div
               class="card-body px-0 px-sm-5 py-0 py-sm-4 position-absolute bg-white card-connect border-0"
