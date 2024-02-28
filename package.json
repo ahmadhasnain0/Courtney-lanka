@@ -10,9 +10,13 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
+    "@nuxtjs/composition-api": "^0.33.1",
     "bootstrap": "^5.3.3",
     "nuxt": "^3.10.3",
+    "v-owl-carousel": "^1.0.8",
     "vue": "^3.4.19",
+    "vue-no-ssr": "^1.1.1",
+    "vue-owl-carousel": "^2.0.3",
     "vue-router": "^4.3.0"
   },
   "devDependencies": {
