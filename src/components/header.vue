@@ -41,7 +41,7 @@
           />
           <div class=" solution-width">
             <h4 class="text-blue fw-bold">Architect your Solution</h4>
-            <p>
+            <p class="f-14">
               Our team in on your operational, technological, and strategic
               challenges through an in-depth understanding of your business. We
               design a strategic roadmap to guide your result-oriented goals.
@@ -58,7 +58,7 @@
           />
           <div class="  solution-width">
             <h4 class="text-blue fw-bold">Engineer your Solution</h4>
-            <p>
+            <p  class="f-14">
               We promptly put together your nearshore engineering dream team to
               fulfill your specific requirements. We create the most elegant
               solution for your difficulties by combining our deep tech
@@ -76,7 +76,7 @@
           />
           <div class="  solution-width">
             <h4 class="text-blue fw-bold">ReEngineer your Business Process</h4>
-            <p>
+            <p  class="f-14">
               Bolster by our team, your digital transformation swiftly gains
               speed and evolves into a digital acceleration. This process places
               the foundation for a more efficient and strong business that can
