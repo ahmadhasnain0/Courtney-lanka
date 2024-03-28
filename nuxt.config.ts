@@ -5,8 +5,16 @@ export default {
  [{src:'~/plugins/OwlCarousel.js',
 mode:'client',
 ssr: false,
-}
+},
+{ src: '~/plugins/bootstrap.js', mode: 'client' }
+
 ],
 
-  
+
+
+static: {
+  prefix: false
+},
+
+
 }
